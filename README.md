@@ -1,4 +1,4 @@
- Esolv
+# Esolv
 Prefer not to install anything? Watch our demo video. Everything below is optional.
 
 Quick local demo (about 15 minutes): Chrome, Python 3.12, Node 20+, and an OpenRouter API key (email us for a limited demo key).
