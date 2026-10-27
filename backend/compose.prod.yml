@@ -1,0 +1,25 @@
+services:
+  esolv-api:
+    restart: unless-stopped
+    environment:
+      ENV: prod
+      PUBLIC_URL: https://${ESOLV_DOMAIN:?Set ESOLV_DOMAIN in backend/.env}
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on:
+      - esolv-api
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      ESOLV_DOMAIN: ${ESOLV_DOMAIN:?Set ESOLV_DOMAIN in backend/.env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+
+volumes:
+  caddy-data:
+  caddy-config:

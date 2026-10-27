@@ -1,0 +1,40 @@
+[project]
+name = "esolv-backend"
+version = "0.1.0"
+description = "Esolv backend: FastAPI, MCP servers (Canvas + knowledge), RAG for MCPS ESOL teachers"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "pydantic-settings>=2.4",
+  "sqlmodel>=0.0.22",
+  "pyjwt>=2.9",
+  "cryptography>=43",
+  "httpx>=0.27",
+  "mcp>=1.12,<2",
+  "chromadb>=0.5",
+  "fastembed>=0.4",
+  "rank-bm25>=0.2.2",
+  "pypdf>=5",
+  "python-docx>=1.1",
+  "beautifulsoup4>=4.12",
+  "pillow>=10.4",
+  "google-auth>=2.34",
+  "python-multipart>=0.0.9",
+  "requests>=2.32",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.24", "respx>=0.21"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["app*"]

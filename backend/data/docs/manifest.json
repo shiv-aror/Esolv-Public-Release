@@ -1,0 +1,118 @@
+{
+  "eld-accommodations-guide.md": {
+    "title": "SAMPLE: ELD Instructional & Testing Accommodations Guide",
+    "url": "https://www.montgomeryschoolsmd.org/",
+    "doc_type": "sample",
+    "index": false
+  },
+  "access-for-ells-assessment.md": {
+    "title": "SAMPLE: ACCESS for ELLs Annual English Proficiency Assessment",
+    "url": "https://wida.wisc.edu/assess/access",
+    "doc_type": "sample",
+    "index": false
+  },
+  "eld-paperwork-timeline.md": {
+    "title": "SAMPLE: ELD Paperwork & Compliance Timeline",
+    "url": "https://www.montgomeryschoolsmd.org/",
+    "doc_type": "sample",
+    "index": false
+  },
+  "exit-and-monitoring.md": {
+    "title": "SAMPLE: Reclassification, Exit & Monitoring",
+    "url": "https://www.montgomeryschoolsmd.org/",
+    "doc_type": "sample",
+    "index": false
+  },
+  "accountability-overview.md": {
+    "title": "SAMPLE: English Learner Accountability Overview",
+    "url": "https://www.montgomeryschoolsmd.org/",
+    "doc_type": "sample",
+    "index": false
+  },
+  "iod-policy-2024.md": {
+    "title": "MCPS Policy IOD (2024): ELD Programs and Services",
+    "url": "https://ww2.montgomeryschoolsmd.org/departments/policy/detail.aspx?policyID=IOD&recID=234&sectionID=9",
+    "doc_type": "policy",
+    "index": false
+  },
+  "iod-ra-regulation-2012.md": {
+    "title": "MCPS Regulation IOD-RA (2012): ESOL",
+    "url": "https://ww2.montgomeryschoolsmd.org/departments/policy/detail.aspx?policyID=IOD-RA&recID=235&sectionID=9",
+    "doc_type": "policy",
+    "index": false
+  },
+  "mcps-eld-instruction.md": {
+    "title": "MCPS ELD Instructional Programs and Grade Levels",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/instruction/",
+    "doc_type": "instructional",
+    "index": false
+  },
+  "mcps-eld-elementary.md": {
+    "title": "MCPS Elementary ELD Instruction",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/es/",
+    "doc_type": "instructional",
+    "index": false
+  },
+  "mcps-eld-middle.md": {
+    "title": "MCPS Middle School ELD Instruction",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/ms/",
+    "doc_type": "instructional",
+    "index": false
+  },
+  "mcps-eld-high.md": {
+    "title": "MCPS High School ELD Instruction",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/high/",
+    "doc_type": "instructional",
+    "index": false
+  },
+  "mcps-eld-home.html": {
+    "title": "MCPS English Language Development overview",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/",
+    "doc_type": "instructional"
+  },
+  "mcps-eld-instruction.html": {
+    "title": "MCPS ELD instructional programs",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/instruction/",
+    "doc_type": "instructional"
+  },
+  "mcps-eld-elementary.html": {
+    "title": "MCPS elementary ELD instruction",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/es/",
+    "doc_type": "instructional"
+  },
+  "mcps-eld-middle.html": {
+    "title": "MCPS middle school ELD instruction",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/ms/",
+    "doc_type": "instructional"
+  },
+  "mcps-eld-high.html": {
+    "title": "MCPS high school ELD instruction",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/high/",
+    "doc_type": "instructional"
+  },
+  "mcps-eld-twi.html": {
+    "title": "MCPS two-way immersion program",
+    "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/two-way-immersion-twi/",
+    "doc_type": "instructional"
+  },
+  "mcps-policy-iod.pdf": {
+    "title": "MCPS Policy IOD: English Language Development Programs and Services",
+    "url": "https://ww2.montgomeryschoolsmd.org/departments/policy/pdf/iod%20master.pdf",
+    "doc_type": "policy"
+  },
+  "mcps-regulation-iod-ra.pdf": {
+    "title": "MCPS Regulation IOD-RA: English for Speakers of Other Languages",
+    "url": "https://ww2.montgomeryschoolsmd.org/departments/policy/pdf/iodra.pdf",
+    "doc_type": "policy"
+  },
+  "mcps-cal-eld-evaluation-2022.pdf": {
+    "title": "2022 CAL evaluation of MCPS ELD instruction and Latino student achievement (historical)",
+    "url": "https://www.montgomeryschoolsmd.org/siteassets/district/curriculum/esol/230119-eld-program-eval-rpt.pdf",
+    "doc_type": "research"
+  },
+  "mcps-form-320-53.pdf": {
+    "title": "MCPS Form 320-53: EML accommodations plan for instruction and state assessments",
+    "url": "https://ww2.montgomeryschoolsmd.org/departments/forms/pdf/320-53.pdf",
+    "doc_type": "form"
+  }
+}

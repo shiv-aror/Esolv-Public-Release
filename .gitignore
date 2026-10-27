@@ -1,0 +1,12 @@
+.uvpy/
+.uvcache/
+.npmcache/
+.harness/
+server.log
+install.log
+.devtoken
+node_modules/
+dist/
+dist-test/
+.chrome-for-testing/
+e2e/page/

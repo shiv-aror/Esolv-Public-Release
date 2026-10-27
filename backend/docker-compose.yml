@@ -1,0 +1,14 @@
+services:
+  esolv-api:
+    build: .
+    env_file: .env
+    environment:
+      ENV: ${ENV:-dev}
+      DATABASE_URL: sqlite:////srv/state/esolv.db
+      PUBLIC_URL: ${PUBLIC_URL:-http://localhost:8000}
+    ports: ["127.0.0.1:8000:8000"]
+    volumes:
+      - esolv-state:/srv/state
+      - ./data/docs:/srv/data/docs:ro
+volumes:
+  esolv-state:

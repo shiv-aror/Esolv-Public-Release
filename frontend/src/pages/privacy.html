@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Esolv Privacy Policy</title>
+<link rel="stylesheet" href="./legal.css" />
+</head>
+<body>
+<main>
+  <a class="brand" href="./terms.html"><img src="../icons/icon-48.png" alt="" />Esolv</a>
+  <h1>Privacy Policy</h1>
+  <p class="updated">Effective: October 19, 2026 &nbsp;·&nbsp; Version 0.1 (pilot)</p>
+  <div class="draft"><b>DRAFT.</b> This policy describes how the Esolv pilot is built to work. It has not been reviewed by MCPS legal counsel or its privacy office and must be reviewed, completed and approved before use with real student data.</div>
+
+  <p>Esolv is an assistant for MCPS ESOL teachers. It answers questions using approved MCPS documents and, when you connect it, read-only information from your own Canvas courses. This page explains what happens to your information.</p>
+
+  <h2>1. Who can use Esolv</h2>
+  <p>Esolv is for MCPS staff only. You sign in with your MCPS Google account. Accounts from other domains are rejected by the server.</p>
+
+  <h2>2. What Esolv handles</h2>
+  <table>
+    <tr><th>Information</th><th>Why</th><th>Where it goes</th></tr>
+    <tr><td>Your name, MCPS email and profile photo</td><td>Sign-in and showing your name</td><td>Esolv server (user table)</td></tr>
+    <tr><td>Your questions and Esolv’s answers</td><td>To answer you and show previous chats</td><td>Saved locally in this browser for your signed-in account and, while a request is processed, sent to the Esolv server and the AI service</td></tr>
+    <tr><td>Canvas data about courses you teach and students enrolled with you</td><td>To answer questions about your classes and students</td><td>Read from Canvas by the Esolv server on demand; not copied into a database</td></tr>
+    <tr><td>Your Canvas access token</td><td>To read Canvas as you</td><td>Stored encrypted on the Esolv server; you can disconnect and delete it at any time</td></tr>
+    <tr><td>Images and screenshots you attach</td><td>To read what is in them</td><td>Sent to the AI service for that request only; metadata is stripped; not stored</td></tr>
+    <tr><td>Page title, address and selected text, if you turn on “This page”</td><td>To answer questions about the page you’re viewing</td><td>Sent with that message only</td></tr>
+    <tr><td>Audit log (who did what, when)</td><td>Security and accountability</td><td>Esolv server. It records actions such as “looked up a student”, using a one-way code for student IDs. It does not record the text of your messages.</td></tr>
+  </table>
+
+  <h2>3. Student information</h2>
+  <ul>
+    <li>Student records are education records under FERPA. Esolv is designed so that you can only look up students who are enrolled in courses you teach, and the server checks this on every lookup.</li>
+    <li>Before text is sent to the AI service, student names and ID numbers are replaced with temporary pseudonyms (for example “Student K7QF”). The real values are restored only in the answer shown to you.</li>
+    <li>Pseudonymization cannot be applied to pictures. A screenshot or photo that shows a student’s name is sent as-is. Esolv asks you to confirm before capturing a page.</li>
+    <li>Esolv does not use student information to train any AI model and does not share it for advertising.</li>
+  </ul>
+
+  <h2>4. The AI service</h2>
+  <p>Esolv sends the minimum text needed (your question, relevant document excerpts and pseudonymized Canvas results) to an AI model through OpenRouter. Requests ask for providers that do not log or train on prompts (zero data retention) where available. The AI service is a subprocessor, and its terms must be reviewed by MCPS before wider rollout.</p>
+
+  <h2>5. What stays on your device</h2>
+  <p>Up to 30 conversations per signed-in account are saved in this browser’s local extension storage, with up to 60 messages in each conversation. They remain after you close Chrome or sign out. The saved copy excludes screenshots, image data and attachment contents; file names and question text remain. Delete one chat from Previous chats, or delete all chats in Settings. Settings such as your theme and server address are also kept locally. Your sign-in token lives in session storage and is removed when you sign out.</p>
+
+  <h2>6. Retention</h2>
+  <ul>
+    <li>Question and answer text is not stored on the Esolv server after the request completes.</li>
+    <li>Audit log entries are deleted automatically after the retention period configured by the administrator (180 days by default).</li>
+    <li>Your account record and Canvas token are deleted on request or when you disconnect.</li>
+  </ul>
+
+  <h2>7. Security</h2>
+  <p>Traffic between the extension and the server is encrypted in transit when the server uses HTTPS. Canvas tokens are encrypted at rest. The server only has read access to Canvas. Esolv has no ability to change grades, accommodations or any record. Documents retrieved from the knowledge base and Canvas content are treated as untrusted text and cannot give Esolv new instructions.</p>
+
+  <h2>8. Your choices</h2>
+  <ul>
+    <li>Disconnect Canvas in Settings at any time.</li>
+    <li>Delete saved chats from Previous chats or Settings.</li>
+    <li>Turn “This page” off to stop sharing page context.</li>
+    <li>Ask your administrator to delete your account data.</li>
+  </ul>
+
+  <h2>9. Limits of the service</h2>
+  <p>Esolv can be wrong. It is not an official MCPS source and does not make eligibility, placement, exit or legal decisions. Always check the cited source and confirm with your ESOL coordinator.</p>
+
+  <h2>10. Contact and changes</h2>
+  <p>[MCPS privacy contact: to be added.] We will update this page when practices change and show the new effective date.</p>
+
+  <footer>See also the <a href="./terms.html">Terms of Service</a>.</footer>
+</main>
+</body>
+</html>

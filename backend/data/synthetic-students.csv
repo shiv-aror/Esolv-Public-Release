@@ -1,0 +1,11 @@
+sis_id,student_name,grade,eld_level,accommodations,plan_review_date,data_status
+123456,Maria Santos,7,3,"Bilingual glossary; Word bank; Extended time (1.5x); Sentence frames; Small-group setting",2026-11-15,SYNTHETIC DEMO ONLY
+234567,Amara Okafor,6,1,"Translated directions; Visuals and graphic organizers; Oral responses; Extended time (1.5x); Frequent breaks",2026-12-02,SYNTHETIC DEMO ONLY
+345678,Joseph Kim,9,5,"Extended time (1.5x); Bilingual dictionary",2026-12-20,SYNTHETIC DEMO ONLY
+900101,Leila Santos,5,2,"Visual vocabulary; Bilingual glossary; Small-group setting",2026-11-08,SYNTHETIC DEMO ONLY
+900102,Omar Haddad,10,4,"Word bank; Extended time (1.5x)",2027-01-14,SYNTHETIC DEMO ONLY
+900103,Iris Okafor,4,1,"Picture supports; Chunked directions; Frequent breaks",2026-12-05,SYNTHETIC DEMO ONLY
+900104,Diego Flores,8,3,"Sentence frames; Bilingual dictionary; Oral clarification of directions",2027-02-09,SYNTHETIC DEMO ONLY
+900105,Sofia Tran,6,2,"Graphic organizers; Small-group setting; Extended time (1.5x)",2026-11-29,SYNTHETIC DEMO ONLY
+900106,Amir Rahman,11,4,"Bilingual glossary; Word bank",2027-03-03,SYNTHETIC DEMO ONLY
+900107,Nina Patel,7,3,"Visuals; Chunked directions; Sentence frames",2027-01-27,SYNTHETIC DEMO ONLY

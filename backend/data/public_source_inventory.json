@@ -1,0 +1,105 @@
+{
+  "synced_at_utc": "2026-10-26T22:44:23.166316+00:00",
+  "sources": [
+    {
+      "filename": "mcps-eld-home.html",
+      "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/",
+      "title": "MCPS English Language Development overview",
+      "doc_type": "instructional",
+      "sha256": "93fe183d1f85e8fcfd8cbfb542129b58d6b27a2c51bfb3d8523ccee4d855fde2",
+      "bytes": 41082,
+      "sections": 4,
+      "text_chars": 2258
+    },
+    {
+      "filename": "mcps-eld-instruction.html",
+      "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/instruction/",
+      "title": "MCPS ELD instructional programs",
+      "doc_type": "instructional",
+      "sha256": "fa3bd8b92b9fae251a63c3942f1dd86303975d22583bdcd9f2a78f358ccfe372",
+      "bytes": 42123,
+      "sections": 4,
+      "text_chars": 4712
+    },
+    {
+      "filename": "mcps-eld-elementary.html",
+      "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/es/",
+      "title": "MCPS elementary ELD instruction",
+      "doc_type": "instructional",
+      "sha256": "62c5e80dc1cc60ec76e232be2d8517f0b3235199b943f967a43f2c9e90dba9b2",
+      "bytes": 40170,
+      "sections": 7,
+      "text_chars": 3568
+    },
+    {
+      "filename": "mcps-eld-middle.html",
+      "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/ms/",
+      "title": "MCPS middle school ELD instruction",
+      "doc_type": "instructional",
+      "sha256": "207364844674e4615dccaa78df077d26ca446f8159161ee9a4d4273d0f8d4fde",
+      "bytes": 38830,
+      "sections": 3,
+      "text_chars": 2647
+    },
+    {
+      "filename": "mcps-eld-high.html",
+      "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/high/",
+      "title": "MCPS high school ELD instruction",
+      "doc_type": "instructional",
+      "sha256": "372a35e912c44e1c2d4f45dd2d0f331b42fc62f45d5826e9a95d7c32b59d5cef",
+      "bytes": 39181,
+      "sections": 3,
+      "text_chars": 2954
+    },
+    {
+      "filename": "mcps-eld-twi.html",
+      "url": "https://www.montgomeryschoolsmd.org/curriculum/eld/two-way-immersion-twi/",
+      "title": "MCPS two-way immersion program",
+      "doc_type": "instructional",
+      "sha256": "fb900e64509079d91d177146e581745c23e7b70a390fb916b2d702d14212fb38",
+      "bytes": 39999,
+      "sections": 5,
+      "text_chars": 4979
+    },
+    {
+      "filename": "mcps-policy-iod.pdf",
+      "url": "https://ww2.montgomeryschoolsmd.org/departments/policy/pdf/iod%20master.pdf",
+      "title": "MCPS Policy IOD: English Language Development Programs and Services",
+      "doc_type": "policy",
+      "sha256": "ede08afb51e004fce803256a3f4f729e1042394b685c4e528ec68e155c853238",
+      "bytes": 147655,
+      "sections": 7,
+      "text_chars": 16775
+    },
+    {
+      "filename": "mcps-regulation-iod-ra.pdf",
+      "url": "https://ww2.montgomeryschoolsmd.org/departments/policy/pdf/iodra.pdf",
+      "title": "MCPS Regulation IOD-RA: English for Speakers of Other Languages",
+      "doc_type": "policy",
+      "sha256": "f314ca3264677f830127c3aa0a8e62affb4f91183d8d8af61cec5590f9c05f3c",
+      "bytes": 24973,
+      "sections": 4,
+      "text_chars": 6809
+    },
+    {
+      "filename": "mcps-form-320-53.pdf",
+      "url": "https://ww2.montgomeryschoolsmd.org/departments/forms/pdf/320-53.pdf",
+      "title": "MCPS Form 320-53: EML accommodations plan for instruction and state assessments",
+      "doc_type": "form",
+      "sha256": "2ccedd66063cacb8ec2bd4c8e548431154c059fe9b5b951d141757c79ee52960",
+      "bytes": 53025,
+      "sections": 1,
+      "text_chars": 4419
+    },
+    {
+      "filename": "mcps-cal-eld-evaluation-2022.pdf",
+      "url": "https://www.montgomeryschoolsmd.org/siteassets/district/curriculum/esol/230119-eld-program-eval-rpt.pdf",
+      "title": "2022 CAL evaluation of MCPS ELD instruction and Latino student achievement (historical)",
+      "doc_type": "research",
+      "sha256": "73f652345516024d2eb1f54f42d583b24eaa326fb2d4b3e95db2a7d6756e0611",
+      "bytes": 7091489,
+      "sections": 325,
+      "text_chars": 819314
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{$ESOLV_DOMAIN} {
+    encode zstd gzip
+    reverse_proxy esolv-api:8000
+}
